@@ -1,2 +1,6 @@
 # Rakuten-classication-automatique
-Classification de produits multimodale: Le projet s’inscrit dans une problématique centrale du e-commerce : la catégorisation automatique des produits. 
+Le projet s’inscrit dans une problématique centrale du e-commerce : la catégorisation automatique des produits. Sur la marketplace Rakuten France, qui compte environ 10 000 vendeurs professionnels, chaque vendeur peut renseigner ses produits avec ses propres conventions de dénomination ou de classement, ce qui entraîne une grande variabilité dans la qualité et la structure des données fournies. De plus, des erreurs de catégorisation sont fréquentes, notamment lors de la mise en ligne de produits d’occasion ou de produits similaires aux références existantes.
+Cette hétérogénéité nuit à la cohérence du catalogue, complique la recherche de produits par les clients et rend plus difficile l’optimisation des moteurs de recommandation. 
+Cela influera aussi sur la qualité de l’expérience utilisateur grâce à une catégorisation cohérente avec les produits s’y trouvant.
+Une solution automatisée, capable d’intégrer simultanément les informations textuelles (titres, descriptions) et visuelles (images), apparaît donc comme un levier essentiel pour améliorer la qualité de l’expérience utilisateur, faciliter la navigation et fiabiliser les données structurées du catalogue produit.
+
